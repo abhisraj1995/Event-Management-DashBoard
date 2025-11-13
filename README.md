@@ -197,17 +197,16 @@ Event management teams struggled with:
 ## 🖼️ Dashboard Preview  
 
 ### 📊 Overview Dashboard  
-🔗 [View Screenshot]((https://github.com/abhisraj1995/Event-Management-DashBoard/blob/main/Event%20Management%20Protfolio%20Dashboard.png))
+![Overview Dashboard](https://github.com/abhisraj1995/Event-Management-DashBoard/blob/main/Event%20Management%20Protfolio%20Dashboard.png)
 
 ### 💰 Financial Performance  
-🔗 [View Screenshot](https://github.com/abhisraj1995/Event-Management-DashBoard/blob/main/Event%20Management%20Financial%20Performance%20Dashboard.png)
+![Financial Performance](https://github.com/abhisraj1995/Event-Management-DashBoard/blob/main/Event%20Management%20Financial%20Performance%20Dashboard.png)
 
 ### 🎟️ Event Performance  
-🔗 [View Screenshot](https://github.com/abhisraj1995/Event-Management-DashBoard/blob/main/Event%20Management%20Event%20Performance%20DashBoard.png)
+![Event Performance](https://github.com/abhisraj1995/Event-Management-DashBoard/blob/main/Event%20Management%20Event%20Performance%20DashBoard.png)
 
 ### 🌍 Geographic & Organizer Performance  
-🔗 [View Screenshot](https://github.com/abhisraj1995/Event-Management-DashBoard/blob/main/Event%20Management%20Geographic%20%26%20Organizer%20DashBoard.png)
-
+![Geographic & Organizer Performance](https://github.com/abhisraj1995/Event-Management-DashBoard/blob/main/Event%20Management%20Geographic%20%26%20Organizer%20DashBoard.png)
 
 ---
 
